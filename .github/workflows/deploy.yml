@@ -10,6 +10,7 @@ jobs:
     name: Deploy to EKS
     runs-on: ubuntu-latest
 
+# The steps start from here:
     steps:
 
     - name: Checkout code
